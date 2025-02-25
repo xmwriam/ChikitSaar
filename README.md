@@ -29,10 +29,10 @@ At its core, the system uses Retrieval-Augmented Generation (RAG), a fancy way o
 2. Start the backend:
     ```sh
     cd backend
-flask run
+    flask run
 
 3. Start the frontend:
     ```sh
     cd frontend
-npm start
+    npm start
 
